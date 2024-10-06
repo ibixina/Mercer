@@ -39,6 +39,7 @@ const { EmbedBuilder } = require('discord.js');
 const fetch = (url) => import('node-fetch').then(({ default: fetch }) => fetch(url));
 
 var apiKeys = [
+	// Examples
 	"YErIZVXywHE2duBk",
 	"T8bdKR4mWsaHeqay"
 ];
